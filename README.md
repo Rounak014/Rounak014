@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development...
 - 💞️ I’m looking for internship in backend development ...
 - 📌 solved 300+ leetcode problems -> https://leetcode.com/Rounak_sharma/
-- 📫 How to reach me -> www.linkedin.com/in/rounak-sharma-0225231b5 ,sharmarounak014@gmail.com
+- 📫 How to reach me -> www.linkedin.com/in/rounak-sharma-0225231b5 ,rounakdirect014@gmail.com
 
 
 <!---
